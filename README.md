@@ -1,5 +1,6 @@
 # UAC-0099-Targeting_UA
 UAC-0099 is a threat actor that targets Ukraine since mid-2022
+More information in the blog at [Deepinstinct.com](https://www.deepinstinct.com/blog)
 
 
 # CVE-2023-38831 exploited during the campaing - POC
